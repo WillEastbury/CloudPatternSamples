@@ -1,0 +1,15 @@
+C:\Source\HttpBench\bin\Debug\net6.0\HttpBench.exe
+C:\Source\HttpBench\bin\Debug\net6.0\HttpBench.deps.json
+C:\Source\HttpBench\bin\Debug\net6.0\HttpBench.runtimeconfig.json
+C:\Source\HttpBench\bin\Debug\net6.0\HttpBench.dll
+C:\Source\HttpBench\bin\Debug\net6.0\HttpBench.pdb
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.csproj.AssemblyReference.cache
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.AssemblyInfoInputs.cache
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.AssemblyInfo.cs
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.csproj.CoreCompileInputs.cache
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.dll
+C:\Source\HttpBench\obj\Debug\net6.0\refint\HttpBench.dll
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.pdb
+C:\Source\HttpBench\obj\Debug\net6.0\HttpBench.genruntimeconfig.cache
+C:\Source\HttpBench\obj\Debug\net6.0\ref\HttpBench.dll

@@ -1,0 +1,5 @@
+C:\Source\HttpBench\bin\Debug\net6.0\publish\HttpBench.exe
+C:\Source\HttpBench\bin\Debug\net6.0\publish\HttpBench.dll
+C:\Source\HttpBench\bin\Debug\net6.0\publish\HttpBench.deps.json
+C:\Source\HttpBench\bin\Debug\net6.0\publish\HttpBench.runtimeconfig.json
+C:\Source\HttpBench\bin\Debug\net6.0\publish\HttpBench.pdb

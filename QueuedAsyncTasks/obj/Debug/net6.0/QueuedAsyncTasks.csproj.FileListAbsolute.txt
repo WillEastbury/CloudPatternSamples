@@ -1,0 +1,12 @@
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\QueuedAsyncTasks.csproj.AssemblyReference.cache
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\QueuedAsyncTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\QueuedAsyncTasks.AssemblyInfoInputs.cache
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\QueuedAsyncTasks.AssemblyInfo.cs
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\QueuedAsyncTasks.csproj.CoreCompileInputs.cache
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\bin\Debug\net6.0\QueuedAsyncTasks.deps.json
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\bin\Debug\net6.0\QueuedAsyncTasks.dll
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\bin\Debug\net6.0\QueuedAsyncTasks.pdb
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\QueuedAsyncTasks.dll
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\refint\QueuedAsyncTasks.dll
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\QueuedAsyncTasks.pdb
+C:\Source\CloudConcepts\Concepts\QueuedAsyncTasks\obj\Debug\net6.0\ref\QueuedAsyncTasks.dll

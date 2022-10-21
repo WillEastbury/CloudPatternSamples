@@ -1,0 +1,12 @@
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\bin\Debug\net6.0\SoftwareLoadBalancer.deps.json
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\bin\Debug\net6.0\SoftwareLoadBalancer.dll
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\bin\Debug\net6.0\SoftwareLoadBalancer.pdb
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\SoftwareLoadBalancer.csproj.AssemblyReference.cache
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\SoftwareLoadBalancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\SoftwareLoadBalancer.AssemblyInfoInputs.cache
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\SoftwareLoadBalancer.AssemblyInfo.cs
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\SoftwareLoadBalancer.csproj.CoreCompileInputs.cache
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\SoftwareLoadBalancer.dll
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\refint\SoftwareLoadBalancer.dll
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\SoftwareLoadBalancer.pdb
+C:\Source\CloudConcepts\Concepts\SoftwareLoadBalancer\obj\Debug\net6.0\ref\SoftwareLoadBalancer.dll
