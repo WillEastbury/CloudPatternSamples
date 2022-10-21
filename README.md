@@ -7,3 +7,5 @@ Simple Implementations in C# of some things that are often needed at high-volume
 
 - HttpBench (Ultra simple load generation utility sample, used to benchmark throughput for a simulated profanityfilter service.)
 - Demo Host, brings these samples together and uses the Microsoft Azure Cognitive Services Content Moderator Service as a target.
+
+** USUAL DISCLAIMERS APPLY - this is untested non-production sample code and is intended to demonstrate a concept ONLY. Do not use this in a production system without significant testing and enhancement ** 
