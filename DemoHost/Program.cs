@@ -10,7 +10,7 @@ internal class Program
 
         List<Tuple<string, string>> accounts = new List<Tuple<string, string>>();
         // Usage -> accounts.Add(new Tuple<string, string>("key", "https://username.cognitiveservices.azure.com/"));
-
+   
         List<ContentModeratorClient> clients = new List<ContentModeratorClient>();
         foreach (var account in accounts)
         {
